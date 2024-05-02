@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A curious and ambitious security fanatic!</h4>
+<h4 align="center">A curious and ambitious cyber security fanatic!</h4>
 
 ###
 
