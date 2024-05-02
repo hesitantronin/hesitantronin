@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://media.giphy.com/media/lcYkeZa1gBCzS/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/lcYkeZa1gBCzS/giphy.gif"  />
 
 ###
 
