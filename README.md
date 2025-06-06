@@ -1,8 +1,5 @@
-<h1 align="center">Hi, My name is Ronin</h1>
+<h1 align="center">Hi!</h1>
 
-###
-
-<h4 align="center">A curious and ambitious security fanatic!</h4>
 
 ###
 
@@ -12,9 +9,7 @@
 
 ###
 
-<p align="left">🤝Currently looking for an internship!<br>🌱 I’m currently learning about code exploits and vulns<br>💫 admirer of retro tech/software</p>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
