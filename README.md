@@ -39,20 +39,6 @@
 
 ###
 
-<div align="left">
-  <a href="discordapp.com/users/i_ronin_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="www.linkedin.com/in/ronin-van-egdom-195367295" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="roninvanegdom@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" height="300" src="https://media.giphy.com/media/lcYkeZa1gBCzS/giphy.gif"  />
